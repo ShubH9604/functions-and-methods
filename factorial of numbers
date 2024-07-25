@@ -1,6 +1,6 @@
 import java.util.*;
 //factorial of numbers
-public class Functions{
+public class factorial{
     public static void factorial(int n) {
 
         if (n<0){
